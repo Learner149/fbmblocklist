@@ -1,4 +1,4 @@
-*.deepseek.ai/
-deepseek.ai/
-*.deepseek.com/
-deepseek.com/
+*.deepseek.ai
+deepseek.ai
+*.deepseek.com
+deepseek.com
