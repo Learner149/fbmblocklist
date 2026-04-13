@@ -3,5 +3,7 @@ deepseek.ai
 *.deepseek.com
 deepseek.com
 da.myfbmanage.com
-holyburger.toast.site/
-*.holyburger.toast.site/
+*.goldencorral.com/
+goldencorral.com/
+www.applebees.com/en/menu/handcrafted-burgers/
+www.applebees.com/en/menu/steaks-and-ribs/8-oz-top-sirloin
