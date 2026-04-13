@@ -7,3 +7,5 @@ da.myfbmanage.com
 goldencorral.com/
 www.applebees.com/en/menu/handcrafted-burgers/
 www.applebees.com/en/menu/steaks-and-ribs/8-oz-top-sirloin
+holyburger.nyc/
+*.holyburger.nyc/
